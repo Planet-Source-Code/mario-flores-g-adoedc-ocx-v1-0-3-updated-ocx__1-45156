@@ -1,0 +1,12 @@
+ID,FirstName,LastName,Age
+"1","Mario","Flores",23
+"2","Laura","Pineda",23
+"3","Julia","Mendez",21
+"4","Alejandro",Flores",17
+"5","Ruth","Shuster",24
+"6","Jerry","Honeycutt",39
+"7","Yessica","Sanchez",25
+"8","Martin","Lopez",39
+"9","Nacho","Wash",13
+"10","Marcela","Bell",22
+"11","Nicole","Smith",19

@@ -1,0 +1,12 @@
+English,Spanish,Correct
+"White","Blanco","True"
+"Red","Verde","False"
+"Red","Rojo","True"
+"White","Azul","False"
+"Blue","Azul","True"
+"Green","Verde","True"
+"Gold","Oro","True"
+"Car","Carro","True"
+"No","No","True"
+"Yes","Si","True"
+"Computer","Lavadora","False"
